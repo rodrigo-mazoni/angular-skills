@@ -1,4 +1,12 @@
 p {
   font-family: Lato;
+  font-family: 'Raleway', sans-serif;
 }
 
+mat-toolbar{
+  background-color:  #636e72;
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
